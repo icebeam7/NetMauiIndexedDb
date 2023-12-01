@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:NetMauiIndexedDb"
+             x:Class="NetMauiIndexedDb.MainPage"
+             xmlns:ejl="clr-namespace:HybridWebView;assembly=HybridWebView"
+             BackgroundColor="{DynamicResource PageBackgroundColor}">
+
+    <ejl:HybridWebView x:Name="hwv" HybridAssetRoot="hybrid_root" 
+                       MainFile="index.html" 
+                       RawMessageReceived="OnJsRawMessageReceived" />
+
+
+</ContentPage>

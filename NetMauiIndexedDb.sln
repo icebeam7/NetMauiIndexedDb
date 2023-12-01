@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetMauiIndexedDb", "NetMauiIndexedDb\NetMauiIndexedDb.csproj", "{927D332A-E650-44EB-9AA4-1D7C338873AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{927D332A-E650-44EB-9AA4-1D7C338873AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{927D332A-E650-44EB-9AA4-1D7C338873AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{927D332A-E650-44EB-9AA4-1D7C338873AB}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{927D332A-E650-44EB-9AA4-1D7C338873AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{927D332A-E650-44EB-9AA4-1D7C338873AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{927D332A-E650-44EB-9AA4-1D7C338873AB}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF7AA29C-CD8A-40A5-A64F-EDAAE951BF49}
+	EndGlobalSection
+EndGlobal
